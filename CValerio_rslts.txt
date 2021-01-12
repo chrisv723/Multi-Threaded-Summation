@@ -1,0 +1,131 @@
+
+Parent: Start of PART2 Execution
+	Child thread number 0: 	 child start=1 	 end = 100000 	 sum = 5000050000 
+	Child thread number 1: 	 child start=100001 	 end = 200000 	 sum = 15000050000 
+	Child thread number 2: 	 child start=200001 	 end = 300000 	 sum = 25000050000 
+	Child thread number 3: 	 child start=300001 	 end = 400000 	 sum = 35000050000 
+	Child thread number 4: 	 child start=400001 	 end = 500000 	 sum = 45000050000 
+	Child thread number 5: 	 child start=500001 	 end = 600000 	 sum = 55000050000 
+	Child thread number 6: 	 child start=600001 	 end = 700000 	 sum = 65000050000 
+	Child thread number 7: 	 child start=700001 	 end = 800000 	 sum = 75000050000 
+	Child thread number 8: 	 child start=800001 	 end = 900000 	 sum = 85000050000 
+	Child thread number 9: 	 child start=900001 	 end = 1000000 	 sum = 95000050000 
+Parent: Total sum is 500000500000 
+Parent: End of  Execution
+
+
+
+
+Parent: Start of PART3 Execution
+	Child thread number 0, GrandChild thread number 0: 	 grandchild start=1 	 grandchildend = 10000 	 grandchildsum = 50005000 
+	Child thread number 0, GrandChild thread number 1: 	 grandchild start=10001 	 grandchildend = 20000 	 grandchildsum = 150005000 
+	Child thread number 1, GrandChild thread number 2: 	 grandchild start=100001 	 grandchildend = 110000 	 grandchildsum = 1050005000 
+	Child thread number 2, GrandChild thread number 3: 	 grandchild start=200001 	 grandchildend = 210000 	 grandchildsum = 2050005000 
+	Child thread number 0, GrandChild thread number 4: 	 grandchild start=20001 	 grandchildend = 30000 	 grandchildsum = 250005000 
+	Child thread number 1, GrandChild thread number 5: 	 grandchild start=110001 	 grandchildend = 120000 	 grandchildsum = 1150005000 
+	Child thread number 3, GrandChild thread number 6: 	 grandchild start=300001 	 grandchildend = 310000 	 grandchildsum = 3050005000 
+	Child thread number 2, GrandChild thread number 8: 	 grandchild start=210001 	 grandchildend = 220000 	 grandchildsum = 2150005000 
+	Child thread number 0, GrandChild thread number 7: 	 grandchild start=30001 	 grandchildend = 40000 	 grandchildsum = 350005000 
+	Child thread number 1, GrandChild thread number 9: 	 grandchild start=120001 	 grandchildend = 130000 	 grandchildsum = 1250005000 
+	Child thread number 4, GrandChild thread number 10: 	 grandchild start=400001 	 grandchildend = 410000 	 grandchildsum = 4050005000 
+	Child thread number 3, GrandChild thread number 11: 	 grandchild start=310001 	 grandchildend = 320000 	 grandchildsum = 3150005000 
+	Child thread number 0, GrandChild thread number 12: 	 grandchild start=40001 	 grandchildend = 50000 	 grandchildsum = 450005000 
+	Child thread number 1, GrandChild thread number 13: 	 grandchild start=130001 	 grandchildend = 140000 	 grandchildsum = 1350005000 
+	Child thread number 3, GrandChild thread number 14: 	 grandchild start=320001 	 grandchildend = 330000 	 grandchildsum = 3250005000 
+	Child thread number 2, GrandChild thread number 15: 	 grandchild start=220001 	 grandchildend = 230000 	 grandchildsum = 2250005000 
+	Child thread number 0, GrandChild thread number 16: 	 grandchild start=50001 	 grandchildend = 60000 	 grandchildsum = 550005000 
+	Child thread number 1, GrandChild thread number 17: 	 grandchild start=140001 	 grandchildend = 150000 	 grandchildsum = 1450005000 
+	Child thread number 3, GrandChild thread number 18: 	 grandchild start=330001 	 grandchildend = 340000 	 grandchildsum = 3350005000 
+	Child thread number 2, GrandChild thread number 19: 	 grandchild start=230001 	 grandchildend = 240000 	 grandchildsum = 2350005000 
+	Child thread number 5, GrandChild thread number 20: 	 grandchild start=500001 	 grandchildend = 510000 	 grandchildsum = 5050005000 
+	Child thread number 0, GrandChild thread number 21: 	 grandchild start=60001 	 grandchildend = 70000 	 grandchildsum = 650005000 
+	Child thread number 4, GrandChild thread number 22: 	 grandchild start=410001 	 grandchildend = 420000 	 grandchildsum = 4150005000 
+	Child thread number 1, GrandChild thread number 23: 	 grandchild start=150001 	 grandchildend = 160000 	 grandchildsum = 1550005000 
+	Child thread number 3, GrandChild thread number 24: 	 grandchild start=340001 	 grandchildend = 350000 	 grandchildsum = 3450005000 
+	Child thread number 2, GrandChild thread number 25: 	 grandchild start=240001 	 grandchildend = 250000 	 grandchildsum = 2450005000 
+	Child thread number 6, GrandChild thread number 26: 	 grandchild start=600001 	 grandchildend = 610000 	 grandchildsum = 6050005000 
+	Child thread number 5, GrandChild thread number 27: 	 grandchild start=510001 	 grandchildend = 520000 	 grandchildsum = 5150005000 
+	Child thread number 0, GrandChild thread number 28: 	 grandchild start=70001 	 grandchildend = 80000 	 grandchildsum = 750005000 
+	Child thread number 1, GrandChild thread number 29: 	 grandchild start=160001 	 grandchildend = 170000 	 grandchildsum = 1650005000 
+	Child thread number 2, GrandChild thread number 30: 	 grandchild start=250001 	 grandchildend = 260000 	 grandchildsum = 2550005000 
+	Child thread number 4, GrandChild thread number 31: 	 grandchild start=420001 	 grandchildend = 430000 	 grandchildsum = 4250005000 
+	Child thread number 3, GrandChild thread number 32: 	 grandchild start=350001 	 grandchildend = 360000 	 grandchildsum = 3550005000 
+	Child thread number 5, GrandChild thread number 33: 	 grandchild start=520001 	 grandchildend = 530000 	 grandchildsum = 5250005000 
+	Child thread number 1, GrandChild thread number 34: 	 grandchild start=170001 	 grandchildend = 180000 	 grandchildsum = 1750005000 
+	Child thread number 2, GrandChild thread number 35: 	 grandchild start=260001 	 grandchildend = 270000 	 grandchildsum = 2650005000 
+	Child thread number 7, GrandChild thread number 36: 	 grandchild start=700001 	 grandchildend = 710000 	 grandchildsum = 7050005000 
+	Child thread number 5, GrandChild thread number 37: 	 grandchild start=530001 	 grandchildend = 540000 	 grandchildsum = 5350005000 
+	Child thread number 6, GrandChild thread number 38: 	 grandchild start=610001 	 grandchildend = 620000 	 grandchildsum = 6150005000 
+	Child thread number 4, GrandChild thread number 39: 	 grandchild start=430001 	 grandchildend = 440000 	 grandchildsum = 4350005000 
+	Child thread number 8, GrandChild thread number 40: 	 grandchild start=800001 	 grandchildend = 810000 	 grandchildsum = 8050005000 
+	Child thread number 5, GrandChild thread number 41: 	 grandchild start=540001 	 grandchildend = 550000 	 grandchildsum = 5450005000 
+	Child thread number 1, GrandChild thread number 42: 	 grandchild start=180001 	 grandchildend = 190000 	 grandchildsum = 1850005000 
+	Child thread number 3, GrandChild thread number 43: 	 grandchild start=360001 	 grandchildend = 370000 	 grandchildsum = 3650005000 
+	Child thread number 7, GrandChild thread number 44: 	 grandchild start=710001 	 grandchildend = 720000 	 grandchildsum = 7150005000 
+	Child thread number 0, GrandChild thread number 45: 	 grandchild start=80001 	 grandchildend = 90000 	 grandchildsum = 850005000 
+	Child thread number 2, GrandChild thread number 46: 	 grandchild start=270001 	 grandchildend = 280000 	 grandchildsum = 2750005000 
+	Child thread number 6, GrandChild thread number 47: 	 grandchild start=620001 	 grandchildend = 630000 	 grandchildsum = 6250005000 
+	Child thread number 4, GrandChild thread number 48: 	 grandchild start=440001 	 grandchildend = 450000 	 grandchildsum = 4450005000 
+	Child thread number 1, GrandChild thread number 49: 	 grandchild start=190001 	 grandchildend = 200000 	 grandchildsum = 1950005000 
+	Child thread number 0, GrandChild thread number 50: 	 grandchild start=90001 	 grandchildend = 100000 	 grandchildsum = 950005000 
+	Child thread number 4, GrandChild thread number 51: 	 grandchild start=450001 	 grandchildend = 460000 	 grandchildsum = 4550005000 
+	Child thread number 3, GrandChild thread number 52: 	 grandchild start=370001 	 grandchildend = 380000 	 grandchildsum = 3750005000 
+	Child thread number 7, GrandChild thread number 53: 	 grandchild start=720001 	 grandchildend = 730000 	 grandchildsum = 7250005000 
+	Child thread number 8, GrandChild thread number 54: 	 grandchild start=810001 	 grandchildend = 820000 	 grandchildsum = 8150005000 
+Child thread number 1: 	 child start=100001 	 end = 200000 	  childsum = 15000050000 
+ 	Child thread number 6, GrandChild thread number 55: 	 grandchild start=630001 	 grandchildend = 640000 	 grandchildsum = 6350005000 
+	Child thread number 5, GrandChild thread number 56: 	 grandchild start=550001 	 grandchildend = 560000 	 grandchildsum = 5550005000 
+	Child thread number 9, GrandChild thread number 57: 	 grandchild start=900001 	 grandchildend = 910000 	 grandchildsum = 9050005000 
+	Child thread number 4, GrandChild thread number 58: 	 grandchild start=460001 	 grandchildend = 470000 	 grandchildsum = 4650005000 
+	Child thread number 7, GrandChild thread number 59: 	 grandchild start=730001 	 grandchildend = 740000 	 grandchildsum = 7350005000 
+	Child thread number 3, GrandChild thread number 60: 	 grandchild start=380001 	 grandchildend = 390000 	 grandchildsum = 3850005000 
+	Child thread number 8, GrandChild thread number 61: 	 grandchild start=820001 	 grandchildend = 830000 	 grandchildsum = 8250005000 
+	Child thread number 2, GrandChild thread number 62: 	 grandchild start=280001 	 grandchildend = 290000 	 grandchildsum = 2850005000 
+	Child thread number 6, GrandChild thread number 63: 	 grandchild start=640001 	 grandchildend = 650000 	 grandchildsum = 6450005000 
+	Child thread number 5, GrandChild thread number 64: 	 grandchild start=560001 	 grandchildend = 570000 	 grandchildsum = 5650005000 
+	Child thread number 4, GrandChild thread number 65: 	 grandchild start=470001 	 grandchildend = 480000 	 grandchildsum = 4750005000 
+	Child thread number 8, GrandChild thread number 66: 	 grandchild start=830001 	 grandchildend = 840000 	 grandchildsum = 8350005000 
+	Child thread number 7, GrandChild thread number 67: 	 grandchild start=740001 	 grandchildend = 750000 	 grandchildsum = 7450005000 
+	Child thread number 3, GrandChild thread number 68: 	 grandchild start=390001 	 grandchildend = 400000 	 grandchildsum = 3950005000 
+	Child thread number 2, GrandChild thread number 69: 	 grandchild start=290001 	 grandchildend = 300000 	 grandchildsum = 2950005000 
+	Child thread number 6, GrandChild thread number 70: 	 grandchild start=650001 	 grandchildend = 660000 	 grandchildsum = 6550005000 
+Child thread number 0: 	 child start=1 	 end = 100000 	  childsum = 5000050000 
+ 	Child thread number 5, GrandChild thread number 71: 	 grandchild start=570001 	 grandchildend = 580000 	 grandchildsum = 5750005000 
+Child thread number 2: 	 child start=200001 	 end = 300000 	  childsum = 25000050000 
+ Child thread number 3: 	 child start=300001 	 end = 400000 	  childsum = 35000050000 
+ 	Child thread number 8, GrandChild thread number 72: 	 grandchild start=840001 	 grandchildend = 850000 	 grandchildsum = 8450005000 
+	Child thread number 7, GrandChild thread number 73: 	 grandchild start=750001 	 grandchildend = 760000 	 grandchildsum = 7550005000 
+	Child thread number 6, GrandChild thread number 74: 	 grandchild start=660001 	 grandchildend = 670000 	 grandchildsum = 6650005000 
+	Child thread number 5, GrandChild thread number 75: 	 grandchild start=580001 	 grandchildend = 590000 	 grandchildsum = 5850005000 
+	Child thread number 9, GrandChild thread number 76: 	 grandchild start=910001 	 grandchildend = 920000 	 grandchildsum = 9150005000 
+	Child thread number 4, GrandChild thread number 77: 	 grandchild start=480001 	 grandchildend = 490000 	 grandchildsum = 4850005000 
+	Child thread number 8, GrandChild thread number 78: 	 grandchild start=850001 	 grandchildend = 860000 	 grandchildsum = 8550005000 
+	Child thread number 6, GrandChild thread number 79: 	 grandchild start=670001 	 grandchildend = 680000 	 grandchildsum = 6750005000 
+	Child thread number 5, GrandChild thread number 80: 	 grandchild start=590001 	 grandchildend = 600000 	 grandchildsum = 5950005000 
+	Child thread number 4, GrandChild thread number 81: 	 grandchild start=490001 	 grandchildend = 500000 	 grandchildsum = 4950005000 
+	Child thread number 7, GrandChild thread number 82: 	 grandchild start=760001 	 grandchildend = 770000 	 grandchildsum = 7650005000 
+Child thread number 5: 	 child start=500001 	 end = 600000 	  childsum = 55000050000 
+ 	Child thread number 8, GrandChild thread number 83: 	 grandchild start=860001 	 grandchildend = 870000 	 grandchildsum = 8650005000 
+	Child thread number 9, GrandChild thread number 84: 	 grandchild start=920001 	 grandchildend = 930000 	 grandchildsum = 9250005000 
+	Child thread number 6, GrandChild thread number 85: 	 grandchild start=680001 	 grandchildend = 690000 	 grandchildsum = 6850005000 
+Child thread number 4: 	 child start=400001 	 end = 500000 	  childsum = 45000050000 
+ 	Child thread number 7, GrandChild thread number 86: 	 grandchild start=770001 	 grandchildend = 780000 	 grandchildsum = 7750005000 
+	Child thread number 8, GrandChild thread number 87: 	 grandchild start=870001 	 grandchildend = 880000 	 grandchildsum = 8750005000 
+	Child thread number 6, GrandChild thread number 88: 	 grandchild start=690001 	 grandchildend = 700000 	 grandchildsum = 6950005000 
+Child thread number 6: 	 child start=600001 	 end = 700000 	  childsum = 65000050000 
+ 	Child thread number 9, GrandChild thread number 89: 	 grandchild start=930001 	 grandchildend = 940000 	 grandchildsum = 9350005000 
+	Child thread number 7, GrandChild thread number 90: 	 grandchild start=780001 	 grandchildend = 790000 	 grandchildsum = 7850005000 
+	Child thread number 8, GrandChild thread number 91: 	 grandchild start=880001 	 grandchildend = 890000 	 grandchildsum = 8850005000 
+	Child thread number 9, GrandChild thread number 92: 	 grandchild start=940001 	 grandchildend = 950000 	 grandchildsum = 9450005000 
+	Child thread number 7, GrandChild thread number 93: 	 grandchild start=790001 	 grandchildend = 800000 	 grandchildsum = 7950005000 
+	Child thread number 8, GrandChild thread number 94: 	 grandchild start=890001 	 grandchildend = 900000 	 grandchildsum = 8950005000 
+	Child thread number 9, GrandChild thread number 95: 	 grandchild start=950001 	 grandchildend = 960000 	 grandchildsum = 9550005000 
+Child thread number 7: 	 child start=700001 	 end = 800000 	  childsum = 75000050000 
+ Child thread number 8: 	 child start=800001 	 end = 900000 	  childsum = 85000050000 
+ 	Child thread number 9, GrandChild thread number 96: 	 grandchild start=960001 	 grandchildend = 970000 	 grandchildsum = 9650005000 
+	Child thread number 9, GrandChild thread number 97: 	 grandchild start=970001 	 grandchildend = 980000 	 grandchildsum = 9750005000 
+	Child thread number 9, GrandChild thread number 98: 	 grandchild start=980001 	 grandchildend = 990000 	 grandchildsum = 9850005000 
+	Child thread number 9, GrandChild thread number 99: 	 grandchild start=990001 	 grandchildend = 1000000 	 grandchildsum = 9950005000 
+Child thread number 9: 	 child start=900001 	 end = 1000000 	  childsum = 95000050000 
+ Parent: Total sum is 500000500000 
+Parent: End of  Execution
